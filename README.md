@@ -10,7 +10,7 @@
 ### 1. Mixed-Reality-Kontinuum (3 Pkt):
 **Frage:** Ordnen Sie AR und Augmented Virtuality (AV) in das Kontinuum nach Milgram ein. Was ist das kennzeichnende Merkmal von AV?
 
-**Antwort:**
+  
 - **AR (Augmented Reality):** Die reale Welt ist dominant und wird durch virtuelle Elemente ergänzt.
 - **AV (Augmented Virtuality):** Die virtuelle Welt ist dominant und wird durch reale Elemente ergänzt.
 - **Kennzeichnendes Merkmal von AV:** Reale Objekte oder Informationen werden in eine überwiegend virtuelle Umgebung eingebettet.
@@ -20,7 +20,7 @@
 ### 2. Immersion vs. Präsenz (2 Pkt):
 **Frage:** Unterscheiden Sie beide Begriffe. Welcher bezieht sich auf das „Eintauchen“ durch technische Reize und welcher auf das psychologische „Daseins-Gefühl“?
 
-**Antwort:**
+  
 - **Immersion:** Technisch/objektiv; beschreibt, wie stark die Technik die Sinne anspricht (z. B. großes FOV, hohe Auflösung).
 - **Präsenz:** Psychologisch/subjektiv; beschreibt das Gefühl, tatsächlich in der virtuellen Welt anwesend zu sein („Being there“).
 
@@ -29,7 +29,7 @@
 ### 3. Willing Suspension of Disbelief (2 Pkt):
 **Frage:** Erklären Sie das Prinzip und nennen Sie ein Beispiel aus einem anderen Medium (z. B. Roman oder Film).
 
-**Antwort:**
+  
 - Die bewusste Bereitschaft, Unglaubwürdiges zu akzeptieren und sich auf die Illusion einzulassen.
 - Beispiel: Beim Lesen eines Fantasy-Romans akzeptiert der Leser Magie und Drachen als Teil der Geschichte.
 
@@ -38,7 +38,7 @@
 ### 4. Uncanny Valley (3 Pkt):
 **Frage:** Definieren Sie diesen Effekt. Warum werden Avatare in VR oft bewusst cartoonhaft gestaltet?
 
-**Antwort:**
+  
 - Das **Uncanny Valley** beschreibt den starken Akzeptanzverlust, wenn künstliche Figuren fast menschlich aussehen, aber kleine Fehler aufweisen.
 - Diese Figuren wirken oft unheimlich oder gruselig.
 - Cartoonhafte Avatare vermeiden diesen Effekt, da Nutzer sie nicht mit echten Menschen vergleichen.
@@ -48,7 +48,7 @@
 ### 5. AR-Arten (2 Pkt):
 **Frage:** Nennen Sie zwei Beispiele für unterschiedliche AR-Ansätze (z. B. markerbasiert).
 
-**Antwort:**
+  
 - Markerbasierte AR (z. B. QR-Codes oder Bilderkennung)
 - Markerlose AR (z. B. SLAM-basierte Platzierung virtueller Objekte)
 - Weitere Beispiele: GPS-basierte AR, Projektions-AR
@@ -60,7 +60,7 @@
 ### 6. Reafferenzprinzip (4 Pkt):
 **Frage:** Was versteht man unter einer Efferenzkopie? Warum ist der Abgleich mit der Afferenz für eine stabile Wahrnehmung in VR wichtig?
 
-**Antwort:**
+  
 - **Efferenzkopie:** Interne Kopie eines motorischen Befehls, mit der das Gehirn die erwarteten sensorischen Folgen einer Bewegung vorhersagt.
 - **Afferenz:** Tatsächliche sensorische Rückmeldung.
 - Durch den Vergleich beider Signale erkennt das Gehirn, ob Veränderungen durch eigene Bewegungen oder durch die Umwelt verursacht wurden.
@@ -71,7 +71,7 @@
 ### 7. Laterale Hemmung (3 Pkt):
 **Frage:** Erklären Sie das Phänomen anhand der Cornsweet-Illusion oder der Mach-Bänder. Welchen biologischen Zweck erfüllt dieser Prozess?
 
-**Antwort:**
+  
 - Aktive Nervenzellen hemmen benachbarte Nervenzellen.
 - Dadurch werden Kontraste verstärkt und Kanten hervorgehoben.
 - Beispiel: Mach-Bänder erscheinen an Helligkeitsübergängen stärker als sie tatsächlich sind.
@@ -82,7 +82,7 @@
 ### 8. Visuelles System (2 Pkt):
 **Frage:** Was ist die Fovea und wie viel Grad des menschlichen Sichtfelds (FOV) deckt sie in etwa ab?
 
-**Antwort:**
+  
 - Die **Fovea** ist der Bereich der Netzhaut mit der höchsten Dichte an Zapfen und damit der höchsten Sehschärfe.
 - Sie deckt etwa **2–3°** des Sichtfelds ab.
 
@@ -91,7 +91,7 @@
 ### 9. Weber’sches Gesetz (2 Pkt):
 **Frage:** Wie verhält sich die wahrgenommene Änderung eines Reizes zur absoluten Intensität des Reizes?
 
-**Antwort:**
+  
 - Die gerade noch wahrnehmbare Änderung eines Reizes ist proportional zur ursprünglichen Reizstärke.
 - Je stärker ein Reiz bereits ist, desto größer muss die Änderung sein, damit sie wahrgenommen wird.
 
@@ -100,7 +100,7 @@
 ### 10. Tiefenhinweise (3 Pkt):
 **Frage:** Unterscheiden Sie monokulare und binokulare Tiefenhinweise und nennen Sie jeweils ein Beispiel.
 
-**Antwort:**
+  
 - **Monokulare Tiefenhinweise:** Funktionieren mit einem Auge.
   - Beispiele: Perspektive, Verdeckung, Schatten, relative Größe.
 - **Binokulare Tiefenhinweise:** Nutzen beide Augen.
@@ -111,7 +111,7 @@
 ### 11. Vergenz-Akkommodations-Konflikt (2 Pkt):
 **Frage:** Beschreiben Sie kurz die zwei beteiligten Prozesse der Augenmuskulatur, die bei aktuellen HMDs im Konflikt stehen.
 
-**Antwort:**
+  
 - **Vergenz:** Augen drehen sich auf ein virtuelles Objekt in bestimmter Tiefe.
 - **Akkommodation:** Die Linse fokussiert auf die feste Displayebene.
 - Da beide Prozesse normalerweise gekoppelt sind, entsteht bei VR-Displays ein Konflikt.
@@ -123,7 +123,7 @@
 ### 12. Sensorkonflikt-Theorie (3 Pkt):
 **Frage:** Erklären Sie die Hauptursache für Cyber Sickness (CS). Welche Rolle spielen dabei das visuelle und das vestibuläre System?
 
-**Antwort:**
+  
 - Cyber Sickness entsteht durch widersprüchliche Informationen der Sinnesorgane.
 - Das visuelle System meldet Bewegung.
 - Das vestibuläre System im Innenohr registriert keine entsprechende Bewegung.
@@ -134,7 +134,7 @@
 ### 13. Vektion (2 Pkt):
 **Frage:** Definieren Sie diesen Begriff und geben Sie ein Beispiel aus dem Alltag.
 
-**Antwort:**
+  
 - Vektion ist die Illusion einer Eigenbewegung, obwohl man sich tatsächlich nicht bewegt.
 - Beispiel: Im Zug scheint man sich zu bewegen, wenn der Nachbarzug losfährt.
 
@@ -143,7 +143,7 @@
 ### 14. Evolutionäre Theorie (2 Pkt):
 **Frage:** Warum reagiert unser Körper auf Sensorkonflikte oft mit Übelkeit oder Schwitzen?
 
-**Antwort:**
+  
 - Das Gehirn interpretiert widersprüchliche Sinneseindrücke möglicherweise als Vergiftung oder Halluzination.
 - Als Schutzreaktion werden Übelkeit, Schwitzen oder Erbrechen ausgelöst.
 
@@ -152,7 +152,7 @@
 ### 15. Bewegung & CS (2 Pkt):
 **Frage:** Warum ist das Risiko für CS bei virtuellen Rotationen oder Beschleunigungen höher als bei konstanter geradliniger Bewegung?
 
-**Antwort:**
+  
 - Rotationen und Beschleunigungen werden vom vestibulären System besonders stark wahrgenommen.
 - Fehlen die entsprechenden körperlichen Signale, entsteht ein stärkerer Sensorkonflikt.
 
@@ -161,7 +161,7 @@
 ### 16. Rest Frame-Hypothesis (3 Pkt):
 **Frage:** Was ist ein „Bezugsrahmen“ und wie kann ein virtuelles Cockpit helfen, CS zu reduzieren?
 
-**Antwort:**
+  
 - Ein Bezugsrahmen ist ein stabiles Objekt, an dem sich die Wahrnehmung orientieren kann.
 - Ein virtuelles Cockpit oder HUD dient als visueller Ruhepol.
 - Dadurch wird Cyber Sickness reduziert.
@@ -171,7 +171,7 @@
 ### 17. Gegenmaßnahmen (2 Pkt):
 **Frage:** Nennen Sie zwei technische Maßnahmen, die Entwickler ergreifen können.
 
-**Antwort:**
+  
 - Hohe Bildrate (mindestens 90 FPS)
 - Dynamische Einschränkung des Sichtfelds (FOV Reduction/Tunneling)
 - Geringe Latenz
@@ -184,7 +184,7 @@
 ### 18. 3D-Rekonstruktion (3 Pkt):
 **Frage:** Vergleichen Sie die Photogrammetrie mit dem Gaussian Splatting. Was ist ein Vorteil von Gaussian Splatting bei der Darstellung komplexer Szenen?
 
-**Antwort:**
+  
 - **Photogrammetrie:** Rekonstruiert meist Meshes und Texturen aus Fotos.
 - **Gaussian Splatting:** Repräsentiert Szenen durch viele 3D-Gauß-Verteilungen.
 - Vorteil: Sehr realistische Darstellung komplexer Geometrien und transparenter Strukturen bei hoher Rendergeschwindigkeit.
@@ -194,7 +194,7 @@
 ### 19. Gaussian Splatting & KI (3 Pkt):
 **Frage:** Warum wird dieses Verfahren oft im Kontext von KI genannt, obwohl es keine klassische KI ist? Nennen Sie zwei Aspekte.
 
-**Antwort:**
+  
 - Nutzt gradientenbasierte Optimierung ähnlich wie neuronale Netze.
 - Optimiert eine Loss-Funktion während des Trainings.
 - Verwendet große Mengen an Bilddaten.
@@ -205,7 +205,7 @@
 ### 20. SLAM (3 Pkt):
 **Frage:** Wofür steht die Abkürzung? Welche zwei Aufgaben löst der Algorithmus gleichzeitig?
 
-**Antwort:**
+  
 - **SLAM = Simultaneous Localization and Mapping**
 - Gleichzeitige:
   1. Bestimmung der eigenen Position.
@@ -216,7 +216,7 @@
 ### 21. Optimierung (3 Pkt):
 **Frage:** Erklären Sie das Prinzip von Level of Detail (LOD). Warum ist dies für die Performance von VR-Anwendungen kritisch?
 
-**Antwort:**
+  
 - Entfernte Objekte werden mit weniger Polygonen dargestellt.
 - Nahe Objekte erhalten detaillierte Modelle.
 - Dadurch sinkt die Renderlast und stabile Frameraten werden ermöglicht.
@@ -227,7 +227,7 @@
 ### 22. Kollisionserkennung (2 Pkt):
 **Frage:** Erklären Sie den Unterschied zwischen der Broad Phase (Bounding Boxes) und der Narrow Phase.
 
-**Antwort:**
+  
 - **Broad Phase:** Schneller grober Test mit Bounding Volumes.
 - **Narrow Phase:** Exakte Kollisionsprüfung auf Polygon- oder Mesh-Ebene.
 
@@ -238,7 +238,7 @@
 ### 23. Normans Designprinzipien (3 Pkt):
 **Frage:** Erklären Sie die Begriffe Affordanz und Signifier im Kontext eines virtuellen Schalters.
 
-**Antwort:**
+  
 - **Affordanz:** Der Schalter vermittelt, dass er betätigt werden kann.
 - **Signifier:** Hinweise wie Leuchten, Beschriftung oder Animation zeigen, wie er benutzt wird.
 
@@ -247,7 +247,7 @@
 ### 24. Agency (2 Pkt):
 **Frage:** Warum erhöht die maximale Handlungsfreiheit des Nutzers die Immersion?
 
-**Antwort:**
+  
 - Nutzer erleben ihre Handlungen als selbstbestimmt.
 - Das Gefühl von Kontrolle und Selbstwirksamkeit erhöht die Präsenz.
 
@@ -256,7 +256,7 @@
 ### 25. Komfortzone im FOV (3 Pkt):
 **Frage:** In welchem horizontalen Winkelbereich (Grad) sollten wichtige UI-Elemente idealerweise platziert werden und warum?
 
-**Antwort:**
+  
 - Idealerweise innerhalb von **±30°** horizontal.
 - Dadurch werden übermäßige Kopf- und Nackenbewegungen vermieden.
 
@@ -265,7 +265,7 @@
 ### 26. Textlesbarkeit (3 Pkt):
 **Frage:** Was bedeutet die Einheit dmm? Nennen Sie zwei Faustregeln für gut lesbaren Text in VR.
 
-**Antwort:**
+  
 - **dmm = distance-independent millimeter**
 - Faustregeln:
   - Hoher Kontrast zwischen Text und Hintergrund.
@@ -278,7 +278,7 @@
 ### 27. Aufmerksamkeitssteuerung (3 Pkt):
 **Frage:** Nennen Sie zwei Techniken, um den Blick des Nutzers auf ein wichtiges Objekt außerhalb des aktuellen Sichtfelds zu lenken.
 
-**Antwort:**
+  
 - Halo-Indikatoren
 - Pfeile oder Richtungsmarker
 - Räumliche Audio-Hinweise
@@ -291,7 +291,7 @@
 ### 28. Latenz (3 Pkt):
 **Frage:** Ab wie vielen Millisekunden (ms) wird Latenz in VR/AR kritisch wahrgenommen? Nennen Sie eine Ursache für Latenz.
 
-**Antwort:**
+  
 - Kritisch wird Latenz meist ab etwa **20 ms**.
 - Ursachen:
   - Tracking-Verzögerungen
@@ -304,7 +304,7 @@
 ### 29. OST vs. VST (3 Pkt):
 **Frage:** Erklären Sie den Unterschied zwischen Optical-See-Through und Video-See-Through. Nennen Sie ein Gerät als Beispiel.
 
-**Antwort:**
+  
 - **OST (Optical See Through):**
   - Nutzer blickt direkt auf die reale Welt.
   - Virtuelle Inhalte werden eingeblendet.
@@ -319,7 +319,7 @@
 ### 30. Display-Fehler (2 Pkt):
 **Frage:** Was ist Frame Cancellation und wie wirkt es sich auf die Tiefenwahrnehmung aus?
 
-**Antwort:**
+  
 - Objekte mit negativer Parallaxe werden am Displayrand abgeschnitten.
 - Das Gehirn erhält widersprüchliche Tiefeninformationen.
 - Die Tiefenwahrnehmung wird gestört.
@@ -329,7 +329,7 @@
 ### 31. Pupillenabstand (2 Pkt):
 **Frage:** Was ist der durchschnittliche IPD eines Erwachsenen und was passiert bei einer falschen Einstellung am Headset?
 
-**Antwort:**
+  
 - Durchschnittlicher IPD: etwa **63–64 mm**.
 - Falsche Einstellung führt zu:
   - Unscharfem Bild
@@ -344,7 +344,7 @@
 ### 32. Unity Basics (3 Pkt):
 **Frage:** Welches Koordinatensystem nutzt Unity (links- oder rechtshändig)? In welche Richtung zeigt die positive Z-Achse standardmäßig?
 
-**Antwort:**
+  
 - Unity verwendet ein **linkshändiges Koordinatensystem**.
 - Die positive Z-Achse zeigt nach vorne.
 
@@ -353,7 +353,7 @@
 ### 33. GameObjects (3 Pkt):
 **Frage:** Welches Component besitzt jedes GameObject zwingend? Welche drei Transformationseigenschaften werden dort definiert?
 
-**Antwort:**
+  
 - Jedes GameObject besitzt eine **Transform-Komponente**.
 - Eigenschaften:
   - Position
@@ -365,7 +365,7 @@
 ### 34. Interaktionstechniken (4 Pkt):
 **Frage:** Erklären Sie das Prinzip des Ray-castings zur Selektion von Objekten.
 
-**Antwort:**
+  
 - Ein virtueller Strahl wird vom Controller, Blickpunkt oder Zeiger ausgesendet.
 - Der Strahl prüft Kollisionen mit Objekten.
 - Das erste getroffene Objekt kann ausgewählt oder manipuliert werden.
@@ -380,19 +380,19 @@
 **Frage:** Entwerfen Sie grob eine AR-Anwendung, die einen Mechaniker bei der Reparatur einer komplexen Maschine unterstützt.
 
 ### Hardware:
-**Antwort:**
+  
 - OST-AR-Brille (z. B. HoloLens).
 - Hände bleiben frei.
 - Die reale Maschine bleibt direkt sichtbar.
 
 ### Registrierung:
-**Antwort:**
+  
 - Nutzung von SLAM, Objekterkennung und/oder Markern.
 - Exaktes Tracking der Maschine.
 - Virtuelle Pfeile werden präzise auf reale Bauteile registriert.
 
 ### Ergonomie:
-**Antwort:**
+  
 - Problem: Gorilla-Arm-Effekt bzw. Ermüdung bei langer Nutzung.
 - Gegenmaßnahme:
   - Sprachsteuerung einsetzen.
