@@ -9,13 +9,11 @@
 
 ### 1. Mixed-Reality-Kontinuum (3 Pkt):
 **Frage:** Ordnen Sie AR und Augmented Virtuality (AV) in das Kontinuum nach Milgram ein. Was ist das kennzeichnende Merkmal von AV?
-
   
 - **AR (Augmented Reality):** Die reale Welt ist dominant und wird durch virtuelle Elemente ergänzt.
 - **AV (Augmented Virtuality):** Die virtuelle Welt ist dominant und wird durch reale Elemente ergänzt.
 - **Kennzeichnendes Merkmal von AV:** Reale Objekte oder Informationen werden in eine überwiegend virtuelle Umgebung eingebettet.
-
----
+<img width="1218" height="367" alt="image" src="https://github.com/user-attachments/assets/b25d3c94-80df-4634-82f2-1af002f15afb" />
 
 ### 2. Immersion vs. Präsenz (2 Pkt):
 **Frage:** Unterscheiden Sie beide Begriffe. Welcher bezieht sich auf das „Eintauchen“ durch technische Reize und welcher auf das psychologische „Daseins-Gefühl“?
@@ -63,7 +61,7 @@
   
 - **Efferenzkopie:** Interne Kopie eines motorischen Befehls, mit der das Gehirn die erwarteten sensorischen Folgen einer Bewegung vorhersagt.
 - **Afferenz:** Tatsächliche sensorische Rückmeldung.
-- Durch den Vergleich beider Signale erkennt das Gehirn, ob Veränderungen durch eigene Bewegungen oder durch die Umwelt verursacht wurden.
+- Durch den Vergleich beider Signale erkennt das Gehirn, ob Veränderungen durch eigene Bewegungen oder durch die Umwelt verursacht wurden (von jemandem anderen gekitzelt werden:D)
 - In VR ist dieser Abgleich wichtig für eine stabile und glaubwürdige Wahrnehmung.
 
 ---
