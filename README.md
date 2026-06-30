@@ -396,3 +396,11 @@
   - Sprachsteuerung einsetzen.
   - Gesten minimieren.
   - Blicksteuerung oder physische Eingabegeräte nutzen.
+
+*Fragen zu Prof*
+
+1. Dürfen wir bei Verständnisfragen Skizzen zur Unterstützung oder als Ersatz für Textantworten nutzen, um Zeit zu sparen, sofern die Skizze fachlich korrekt beschriftet ist?
+2. Wird die Klausur chronologisch gemäß der Vorlesungsstruktur aufgebaut sein (z. B. Kapitel 1–6, gefolgt von Unity/Praktikum und der MR-Konzeptionsaufgabe)?
+3. Inwiefern sind die Moodle-Quizfragen (insbesondere die Freitextfragen, da die Klausur kein Multiple-Choice enthält) repräsentativ für den Schwierigkeitsgrad und die Art der Fragestellungen in der Prüfung?
+4. Wie relevant sind spezifische Zahlenwerte aus den Skripten (z. B. FOV, Pupillenabstand etc.)? Müssen diese für die Klausur exakt auswendig gelernt werden?
+5. CAVE Besuch: Welche technischen Schwerpunkte sind hierbei besonders prüfungsrelevant?
